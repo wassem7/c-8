@@ -3,7 +3,7 @@ using PBTB = ProjectA.TeamB;
 
 class ProgramNameSpace
 {
-    static void Main()
+    static void main()
     {
         PATA.ClassA.Print();
         PBTB.ClassA.Print();
