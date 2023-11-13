@@ -1,0 +1,14 @@
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\bin\Debug\net6.0\csharp10tut.exe
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\bin\Debug\net6.0\csharp10tut.deps.json
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\bin\Debug\net6.0\csharp10tut.runtimeconfig.json
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\bin\Debug\net6.0\csharp10tut.dll
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\bin\Debug\net6.0\csharp10tut.pdb
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\csharp10tut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\csharp10tut.AssemblyInfoInputs.cache
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\csharp10tut.AssemblyInfo.cs
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\csharp10tut.csproj.CoreCompileInputs.cache
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\csharp10tut.dll
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\refint\csharp10tut.dll
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\csharp10tut.pdb
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\csharp10tut.genruntimeconfig.cache
+C:\Users\WASSEM DARKWA\Desktop\csharp10tut\csharp10tut\obj\Debug\net6.0\ref\csharp10tut.dll
