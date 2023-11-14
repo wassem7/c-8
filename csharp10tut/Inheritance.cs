@@ -28,7 +28,7 @@ class ChildClass : ParentClass
 
 class Inheritance
 {
-    static void Main()
+    static void main()
     {
         ChildClass c1 = new ChildClass("Charle Omo");
     }

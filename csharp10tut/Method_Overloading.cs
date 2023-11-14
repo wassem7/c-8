@@ -1,6 +1,6 @@
 class Overloading
 {
-    public static void Main()
+    public static void main()
     {
         Add(2, 3);
     }
