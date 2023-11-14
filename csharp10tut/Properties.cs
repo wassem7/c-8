@@ -37,7 +37,7 @@ class Student
 
     class Properties
     {
-        static void Main()
+        static void main()
         {
             Student C1 = new Student();
             C1.SetId(1);

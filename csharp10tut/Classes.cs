@@ -1,4 +1,4 @@
-class Customer
+public class Customer
 {
     string _firstName;
     string _lastName;
