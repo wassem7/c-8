@@ -20,7 +20,7 @@ class Circle
 
     public static void Print() { }
 
-    static void Main()
+    static void main()
     {
         Circle C1 = new Circle(4);
         System.Console.WriteLine("Area : {0} units", C1.Area());
