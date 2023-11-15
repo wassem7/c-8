@@ -25,7 +25,7 @@ class Printer : I1, I2
         System.Console.WriteLine("Interface I2 Print...");
     }
 
-    static void Main()
+    static void main()
     {
         // Type-casting objects to the particular interface
         Printer P1 = new Printer();
