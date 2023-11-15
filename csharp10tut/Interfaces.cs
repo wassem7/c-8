@@ -29,7 +29,7 @@ class Customer1 : ICustomer, ICustomer1
 
 class Interfaces
 {
-    static void Main()
+    static void main()
     {
         Customer1 C1 = new Customer1();
         ICustomer C2 = new Customer1();

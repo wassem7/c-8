@@ -29,7 +29,7 @@ public struct CustomerStruct
 
 class Test
 {
-    static void Main()
+    static void main()
     {
         CustomerStruct C1 = new CustomerStruct(1, "Wassem");
         CustomerStruct C2 = new CustomerStruct();
