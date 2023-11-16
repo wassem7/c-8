@@ -39,7 +39,7 @@ class AB : IA, IB
         b.PrintB();
     }
 
-    static void Main()
+    static void main()
     {
         var a = new AB();
         a.PrintA();

@@ -18,7 +18,7 @@ public class PensionCustomer : CustomerV2
 
 public class AbstractClass
 {
-    static void Main()
+    static void main()
     {
         PensionCustomer C1 = new PensionCustomer();
         C1.Balance(21.12);
