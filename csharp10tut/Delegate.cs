@@ -1,6 +1,6 @@
 class Delegate
 {
-    public static void Main()
+    public static void main()
     {
         CustomerDelegate CD = new CustomerDelegate(DisplayCustomerDetails);
         CD(Name: "Kwame Darkwa", Balance: 3345432);
