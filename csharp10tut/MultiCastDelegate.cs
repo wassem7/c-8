@@ -18,7 +18,7 @@ class TestV5
         System.Console.WriteLine("Sample Method Three Invoked");
     }
 
-    static void Main()
+    static void main()
     {
         MethodDelegate del1,
             del2,
