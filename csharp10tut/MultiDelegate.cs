@@ -2,7 +2,7 @@ public delegate int SampleMethodDelegate();
 
 class MultiDelegate
 {
-    static void Main()
+    static void main()
     {
         SampleMethodDelegate del1 = new SampleMethodDelegate(SamleMethodOne);
         del1 += SamleMethodTwo;
