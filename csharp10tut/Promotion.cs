@@ -36,7 +36,7 @@ delegate bool PromoteEmployeeDelegate(Employee employee);
 
 class Promotion
 {
-    static void Main()
+    static void main()
     {
         List<Employee> employees = new List<Employee>
         {
