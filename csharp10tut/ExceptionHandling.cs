@@ -1,6 +1,6 @@
 class ExceptionHandlilng
 {
-    static void Main()
+    static void main()
     {
         StreamReader streamReader = null;
         try
