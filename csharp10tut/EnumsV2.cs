@@ -1,6 +1,6 @@
 class EnumsV2
 {
-    static void Main()
+    static void main()
     {
         int[] values = (int[])Enum.GetValues(typeof(Gender));
         foreach (int value in values)

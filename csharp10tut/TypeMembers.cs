@@ -37,3 +37,10 @@ class VipCustomer
 
     #endregion
 }
+
+class TestV9{
+    static void Main (){
+
+        System.Console.WriteLine("Hello");
+    }
+}
