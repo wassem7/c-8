@@ -1,21 +1,27 @@
-public delegate string GenderDelegate(int gender);
+public delegate string GenderDelegate(gender gender);
 
 public class DiscountCustomer
 {
     public string Name { get; set; }
-    public int Gender { get; set; }
+    public gender Gender { get; set; }
+}
+
+public enum gender
+{
+    MALE,
+    FEMALE
 }
 
 class Enums
 {
-    public static string GetGenderString(int gender)
+    public static string GetGenderString(gender gender)
     {
         switch (gender)
         {
-            case 0:
+            case gender.MALE:
                 return "Male";
 
-            case 1:
+            case gender.FEMALE:
                 return "Female";
 
             default:
@@ -23,16 +29,16 @@ class Enums
         }
     }
 
-    static void Main()
+    static void main()
     {
         GenderDelegate genderDelegate = new GenderDelegate(GetGenderString);
 
         // Male=0,Female=1
         DiscountCustomer[] discountCustomers = new DiscountCustomer[3]
         {
-            new DiscountCustomer() { Name = "Wassem", Gender = 0 },
-            new DiscountCustomer() { Name = "Ama", Gender = 1 },
-            new DiscountCustomer() { Name = "Kweku", Gender = 0 },
+            new DiscountCustomer() { Name = "Wassem", Gender = gender.MALE },
+            new DiscountCustomer() { Name = "Ama", Gender = gender.FEMALE },
+            new DiscountCustomer() { Name = "Kweku", Gender = gender.MALE },
         };
 
         foreach (DiscountCustomer customer in discountCustomers)
