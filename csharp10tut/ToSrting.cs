@@ -8,7 +8,7 @@ namespace csharp10tut
 {
     internal class ToSrting
     {
-        static void Main()
+        static void main()
         {
 
             Person person = new Person();

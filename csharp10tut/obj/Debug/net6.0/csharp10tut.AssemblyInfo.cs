@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp10tut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d0b27cd23dfc3cd9aa1d41b638d1a57699134d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40362cb0820eb1271f18cb09333855bc90c0c6e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp10tut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp10tut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
