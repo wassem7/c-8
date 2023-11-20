@@ -2,7 +2,7 @@
 
 public class Attributes {
 
-    static void Main (){
+    static void main (){
 
         Calculator.Add(new List<int>() { 3,4,5,7});
 
