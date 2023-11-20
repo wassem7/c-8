@@ -20,13 +20,16 @@
       "outputPath": "C:\\Users\\Wassem Darkwa\\Desktop\\c-8\\csharp10tut\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Wassem Darkwa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Wassem Darkwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/hubtel/_packaging/hubtel/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {

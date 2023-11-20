@@ -39,7 +39,7 @@ class VipCustomer
 }
 
 class TestV9{
-    static void Main (){
+    static void main (){
 
         System.Console.WriteLine("Hello");
     }
