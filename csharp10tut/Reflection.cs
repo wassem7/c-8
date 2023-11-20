@@ -6,7 +6,7 @@ namespace csharp10tut
     internal class Reflection
     {
 
-        static void Main()
+        static void main()
         {
             //Type T = Type.GetType("csharp10tut.Student");
             Type T = typeof(Customer);
