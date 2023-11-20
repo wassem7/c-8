@@ -1,7 +1,7 @@
 ﻿internal class Generics
 {
 
-    public static void Main()
+    public static void main()
     {
 
         bool equal = Calculator<int>.IsEqual('2', '2');
