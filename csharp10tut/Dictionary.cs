@@ -1,6 +1,6 @@
 ﻿class Dictionary
 {
-    static void Main()
+    static void main()
     {
         Customr C1 = new Customr()
         {
