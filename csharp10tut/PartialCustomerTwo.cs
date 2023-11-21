@@ -17,7 +17,7 @@ namespace csharp10tut
 
     public class PartialCustomerTwo
     {
-        static void Main()
+        static void main()
         {
             PartialCustomer P1 = new PartialCustomer();
             P1.GetFullName();
