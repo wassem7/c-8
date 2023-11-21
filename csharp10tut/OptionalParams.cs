@@ -9,7 +9,7 @@ namespace csharp10tut
     internal class OptionalParams
     {
 
-        static void Main()
+        static void main()
         {
             Add(2, 3, 5, 6);
         }
