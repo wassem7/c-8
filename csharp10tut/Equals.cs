@@ -1,7 +1,7 @@
 ﻿class Equals
 {
 
-    static void Main()
+    static void main()
     {
         Pupil P1 = new Pupil();
         P1.FirstName = "Kwame";
